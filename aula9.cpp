@@ -11,7 +11,7 @@ int main()
 	
 	if (sol)
 	{
-		cout<<"Vouu ao clube";
+		cout<<"Vou ao clube";
 	}
 	else
 	{
